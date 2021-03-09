@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4655333-8af9-4c77-ab80-3f36d85e6663" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1osXeOaaPMJ3T29cnoInjjK6yoS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550873260216" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PopPriscilaLab6" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RunManager" selected="JUnit.ServiceTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MonitorizareTemeLaboratorV01" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonitorizareTemeLaboratorV01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTest.test_addStudent_success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonitorizareTemeLaboratorV01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ServiceTest" />
+      <option name="METHOD_NAME" value="test_addStudent_success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ServiceTest" />
+        <item itemvalue="JUnit.ServiceTest.test_addStudent_success" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4655333-8af9-4c77-ab80-3f36d85e6663" name="Default Changelist" comment="" />
+      <created>1550871485222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550871485222</updated>
+      <workItem from="1550871488147" duration="1456000" />
+      <workItem from="1614076371914" duration="906000" />
+      <workItem from="1615236274676" duration="4834000" />
+      <workItem from="1615285606284" duration="3517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1155" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1615238545480">
+      <screen x="-1920" y="5" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="235" key="#com.intellij.ide.util.MemberChooser/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615238545480" />
+    <state x="-1330" y="215" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1615285637777">
+      <screen x="-1920" y="5" width="1920" height="1040" />
+    </state>
+    <state x="-1330" y="215" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615285637777" />
+    <state x="756" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1615289225265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="380" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615289225265" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1615288980867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615241496742" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615288980867" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1615288980867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615241496742" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615288980867" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1615288980867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615241496742" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615288980867" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1615288980867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615241496742" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615288980867" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1615288980867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615241496742" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615288980867" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1615288980867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615241496742" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615288980867" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1615288980867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615241496742" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615288980867" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1615288980867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615241496742" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615288980867" />
+    <state x="-1430" y="181" key="Maven.ArtifactSearchDialog" timestamp="1615285918531">
+      <screen x="-1920" y="5" width="1920" height="1040" />
+    </state>
+    <state x="-1430" y="181" key="Maven.ArtifactSearchDialog/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615285918531" />
+    <state x="-1459" y="168" key="SettingsEditor" timestamp="1615285796697">
+      <screen x="-1920" y="5" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="168" key="SettingsEditor/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615285796697" />
+    <state x="776" y="299" key="chooseDestDirectoryDialog" timestamp="1615287424066">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="299" key="chooseDestDirectoryDialog/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1615287424066" />
+    <state x="-1264" y="123" width="607" height="804" key="find.popup" timestamp="1615237903765">
+      <screen x="-1920" y="5" width="1920" height="1040" />
+    </state>
+    <state x="-1264" y="123" width="607" height="804" key="find.popup/-981.1085.1536.832/-1920.5.1920.1040/0.0.1920.1040@-1920.5.1920.1040" timestamp="1615237903765" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/repository/NotaXMLRepository.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

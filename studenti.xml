@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entitati>
+    <student ID="1">
+        <Nume>Ana2</Nume>
+        <Grupa>933</Grupa>
+    </student>
+    <student ID="2">
+        <Nume>Maria</Nume>
+        <Grupa>222</Grupa>
+    </student>
+    <student ID="237828">
+        <Nume>Test User237828</Nume>
+        <Grupa>933</Grupa>
+    </student>
+    <student ID="4">
+        <Nume>Ion</Nume>
+        <Grupa>227</Grupa>
+    </student>
+    <student ID="108729">
+        <Nume>Test User108729</Nume>
+        <Grupa>933</Grupa>
+    </student>
+    <student ID="108395">
+        <Nume>Test User108395</Nume>
+        <Grupa>933</Grupa>
+    </student>
+    <student ID="243050">
+        <Nume>Test User243050</Nume>
+        <Grupa>933</Grupa>
+    </student>
+    <student ID="239031">
+        <Nume>Test User239031</Nume>
+        <Grupa>933</Grupa>
+    </student>
+</Entitati>

@@ -1,0 +1,3 @@
+Tema: 100
+Nota: 10.0
+Predata in saptamana: 10

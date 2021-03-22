@@ -20,14 +20,36 @@ public class ServiceTest {
 
     @Test
     public void test_addStudent_success() {
-        String id = String.valueOf(new Random().longs(100000,300000).findFirst().orElse(100000));
-        int result = service.saveStudent(id, "Test User" + id, 933);
+        String id = "1";
+        int result = service.saveStudent(id, "tester", 1);
         assertEquals(result,1);
     }
 
     @Test
-    public void test_addStudent_nullName() {
-        int result = service.saveStudent(String.valueOf(new Random().longs(100000,300000).findFirst().orElse(100000)), null, 933);
-        assertEquals(result,1);
+    public void test_addStudent_negativeGroup() {
+        String id = "1";
+        int result = service.saveStudent(id, "tester", -1);
+        assertEquals(result,0);
+    }
+
+    @Test
+    public void test_addStudent_emptyId() {
+        String id = "";
+        int result = service.saveStudent(id, "tester", 1);
+        assertEquals(result,0);
+    }
+
+    @Test
+    public void test_addStudent_emptyName() {
+        String id = "1";
+        int result = service.saveStudent(id, "", 1);
+        assertEquals(result,0);
+    }
+
+    @Test
+    public void test_addStudent_zeroGroup() {
+        String id = "1";
+        int result = service.saveStudent(id, "tester", 0);
+        assertEquals(result,0);
     }
 }

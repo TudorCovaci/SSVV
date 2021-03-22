@@ -22,7 +22,7 @@ public class ServiceTest {
     public void test_addStudent_success() {
         String id = "1";
         int result = service.saveStudent(id, "tester", 933);
-        assertEquals(1,result);
+         assertEquals(1,result);
     }
 
     @Test
@@ -69,14 +69,14 @@ public class ServiceTest {
 
     @Test
     public void test_addStudent_lowerBoundaryLimit() {
-        String id = "1";
+        String id = "111";
         int result = service.saveStudent(id, "tester", 111);
         assertEquals(1,result);
     }
 
     @Test
     public void test_addStudent_upperBoundaryLimit() {
-        String id = "1";
+        String id = "937";
         int result = service.saveStudent(id, "tester", 937);
         assertEquals(1,result);
     }

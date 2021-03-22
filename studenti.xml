@@ -20,6 +20,10 @@
         <Nume>Test User108729</Nume>
         <Grupa>933</Grupa>
     </student>
+    <student ID="269595">
+        <Nume>Test User269595</Nume>
+        <Grupa>933</Grupa>
+    </student>
     <student ID="108395">
         <Nume>Test User108395</Nume>
         <Grupa>933</Grupa>
@@ -30,6 +34,10 @@
     </student>
     <student ID="239031">
         <Nume>Test User239031</Nume>
+        <Grupa>933</Grupa>
+    </student>
+    <student ID="116519">
+        <Nume>Test User116519</Nume>
         <Grupa>933</Grupa>
     </student>
 </Entitati>

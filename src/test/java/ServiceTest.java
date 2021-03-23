@@ -95,4 +95,16 @@ public class ServiceTest {
         assertEquals(0,result);
     }
 
+    @Test
+    public void test_WBT_addAssignment_success() {
+        int result = service.saveTema("1", "desc", 10, 9);
+        assertEquals(1,result);
+    }
+
+    @Test
+    public void test_WBT_addAssignment_descriptionEmptyString() {
+        int result = service.saveTema("1", "", 10, 9);
+        assertEquals(0,result);
+    }
+
 }

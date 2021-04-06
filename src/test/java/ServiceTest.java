@@ -183,7 +183,7 @@ public class ServiceTest {
         when(mockTemaXmlRepo.findOne(anyString())).thenReturn(mockTema);
         when(mockNotaXMLRepository.save(any(Nota.class))).thenReturn(mockNota);
         int result = testService.saveNota("12", "333", 10, 12, "feedback");
-        assertEquals(result, 0);
+        assertEquals(result, 1);
     }
 
     @Test
